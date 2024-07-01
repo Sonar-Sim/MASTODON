@@ -1,4 +1,4 @@
-# Modular Acoustic Simulation Toolset of the Department of the Navy
+# Modular Acoustic Simulation Toolset
 
 General acoustic simulator developed by the Naval Surface Warfare Center Panama City Division (NSWC PCD).
 The primary developer is Dr. Denton Woods. This work has been primarily funded by
